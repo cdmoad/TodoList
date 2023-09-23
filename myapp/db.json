@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user123",
+      "email": "user123@example.com",
+      "name": "John Doe"
+    },
+    {
+      "name": "Alice Smithhhh",
+      "email": "ggg@gmail.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "username": "coder789",
+      "email": "coder789@example.com",
+      "name": "Bob Johnson"
+    },
+    {
+      "id": 5,
+      "username": "designer321",
+      "email": "designer321@example.com",
+      "name": "Eva Davis"
+    },
+    {
+      "id": 6,
+      "username": "webdev007",
+      "email": "webdev007@example.com",
+      "name": "Michael Wilson"
+    },
+    {
+      "id": 7,
+      "username": "redux_master",
+      "email": "redux_master@example.com",
+      "name": "Olivia Brown"
+    },
+    {
+      "id": 8,
+      "username": "graphql_guru",
+      "email": "graphql_guru@example.com",
+      "name": "David Lee"
+    },
+    {
+      "id": 9,
+      "username": "express_rocks",
+      "email": "express_rocks@example.com",
+      "name": "Emily White"
+    },
+    {
+      "id": 10,
+      "username": "vue_lover",
+      "email": "vue_lover@example.com",
+      "name": "William Green"
+    },
+    {
+      "name": "ahmad",
+      "email": "moadhrimech99@gmail.com",
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "author": "user123"
+    },
+    {
+      "id": 3,
+      "title": "Node.js",
+      "author": "dev456"
+    },
+    {
+      "id": 4,
+      "title": "JavaScript",
+      "author": "coder789"
+    },
+    {
+      "id": 5,
+      "title": "CSS",
+      "author": "designer321"
+    },
+    {
+      "id": 6,
+      "title": "HTML",
+      "author": "webdev007"
+    },
+    {
+      "id": 7,
+      "title": "Redux",
+      "author": "redux_master"
+    },
+    {
+      "id": 8,
+      "title": "GraphQL",
+      "author": "graphql_guru"
+    },
+    {
+      "id": 9,
+      "title": "Express.js",
+      "author": "express_rocks"
+    },
+    {
+      "id": 10,
+      "title": "Vue.js",
+      "author": "vue_lover"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "another comment",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "comment here",
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "body": "commenting",
+      "postId": 4
+    },
+    {
+      "id": 5,
+      "body": "commenting again",
+      "postId": 5
+    },
+    {
+      "id": 6,
+      "body": "comment this",
+      "postId": 6
+    },
+    {
+      "id": 7,
+      "body": "commenting on Redux",
+      "postId": 7
+    },
+    {
+      "id": 8,
+      "body": "GraphQL comment",
+      "postId": 8
+    },
+    {
+      "id": 9,
+      "body": "Express.js is cool",
+      "postId": 9
+    },
+    {
+      "id": 10,
+      "body": "Vue.js rocks!",
+      "postId": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
